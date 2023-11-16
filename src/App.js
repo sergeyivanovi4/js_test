@@ -64,7 +64,6 @@ function App() {
                     <Card title="Lorem 5">Lorem 5</Card>
                     <Card title="Lorem ipsum dolor sit amet." src="./img/pngwing.com.png">Lorem 6</Card>
 
-
                     {/* <div class="go1">
                         <img src="./img/images.jpg" alt="A-level" class="a-level"/>
                         <h1>Lorem ipsum dolor sit amet.</h1>
